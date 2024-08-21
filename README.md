@@ -1,5 +1,5 @@
 # About
-rectangle-explorer is a platformer game made with Python and Pygame.
+rectangle-explorer is a 2D platformer game made with Python and Pygame.
 
 # Getting Started
 _Note : Make sure you have Python and Pygame installed._
