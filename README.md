@@ -9,7 +9,7 @@ _Note : Make sure you have Python and Pygame installed._
 
 2. Go to cloned directory via terminal.
 
-3. Run .py file using `python3 main.py` command.
+3. Run the main.py file in the src folder using the `python3 main.py` command.
 
 ## Character Controls
 - Left arrow: Move left
